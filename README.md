@@ -10,5 +10,5 @@ Membuat sebuah aplikasi login
 8. program selesai
 9. lakukan testing
 10. evaluasi 1
-11. evaluasi 2
+11. evaluasi 1-10
 12. selesai
